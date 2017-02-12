@@ -1,0 +1,10 @@
+package chapter_1;
+
+public class question_1_32 {
+
+	public static void main(String[] args) {
+		System.out.println("3.5 * 4 / 2 - 2.5 is");
+		System.out.println(3.5 * 4 / 2 -2.5);
+	}
+
+}

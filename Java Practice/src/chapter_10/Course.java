@@ -11,7 +11,7 @@ public class Course {
 	}
 	
 	public void getCourseName() {
-		System.out.println(courseName);
+		System.out.println("Test 21");
 	}
 	
 	public void addStudent(String student) {
@@ -21,4 +21,5 @@ public class Course {
 	/*public void dropStudent(String student) {
 		if(student)
 	}*/
+	
 }
